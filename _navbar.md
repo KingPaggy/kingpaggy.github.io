@@ -1,0 +1,2 @@
+- [Theory](/candidateOfControlPhD/)
+- [Resource](#零碎的网络资源)
