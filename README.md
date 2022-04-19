@@ -2,6 +2,8 @@
 
 记录我知道的、我相信的内容。
 
+test $\rho$
+
 # Main Content
 
 [Being a candidate of PhD of Control](./docs/candidateOfControlPhD/README.md)
