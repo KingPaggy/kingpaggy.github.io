@@ -16,3 +16,4 @@
   - [The house](./lingua/the_house.md)
 - A2
   - [A great summer vacation](./lingua/a_great_summer_vacation.md)
+  - [At school](./lingua/at_school.md)
