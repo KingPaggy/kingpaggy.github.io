@@ -27,3 +27,7 @@
 1. PID
 2. ADRC
 3. LQR <- LQG
+
+# 视频资源
+
+- [Control Theory by Christopher Lum](https://www.bilibili.com/video/BV11K4y1K7v1)
