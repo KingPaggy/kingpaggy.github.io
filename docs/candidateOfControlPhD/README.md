@@ -28,6 +28,11 @@
 2. ADRC
 3. LQR <- LQG
 
+## 控制主题
+
+Note:
+- [Formation control and coordination of multiple unmanned ground vehicles in normal and faulty situations: A review](./topics/formation_control_2020.md)
+
 # 视频资源
 
 - [Control Theory by Christopher Lum](https://www.bilibili.com/video/BV11K4y1K7v1)
