@@ -8,6 +8,8 @@ test $\rho$
 
 [Being a candidate of PhD of Control](./docs/candidateOfControlPhD/README.md)
 
+[Math](./docs/math/README.md)
+
 [Linux](./docs/linux/README.md)
 
 [English Reading](./docs/englishReading/README.md)
