@@ -1,3 +1,8 @@
+layout: post
+title: "循环数据的均值(Circular mean/ 角度均值)"
+date: 2024-07-15 11:22:33 -0000
+categories: math 
+
 # 循环数据的均值(Circular mean/ 角度均值)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Circular_mean)
