@@ -1,3 +1,0 @@
-- [Being a candidate of PhD of Control](/docs/candidateOfControlPhD/README.md)
-- [Linux](/docs/linux/README.md)
-- [English Reading](/docs/englishReading/README.md)
