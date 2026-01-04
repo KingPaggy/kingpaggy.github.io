@@ -1,4 +1,4 @@
-# Being a candidate of PhD of Control
+# Control
 
 ## 估计 <!-- {docsify-ignore} -->
 
