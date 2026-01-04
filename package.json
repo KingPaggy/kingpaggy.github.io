@@ -1,0 +1,13 @@
+{
+  "name": "kingpaggy.github.io",
+  "version": "1.0.0",
+  "description": "Personal knowledge base and blog",
+  "scripts": {
+    "start": "docsify serve .",
+    "serve": "docsify serve ."
+  },
+  "devDependencies": {
+    "docsify-cli": "^4.4.8"
+  },
+  "license": "MIT"
+}
