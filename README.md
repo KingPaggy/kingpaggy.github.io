@@ -2,8 +2,6 @@
 
 记录我知道的、我相信的内容。
 
-test $\rho$
-
 # Main Content
 
 [Control](./docs/Control/README.md)
@@ -12,11 +10,7 @@ test $\rho$
 
 [Linux](./docs/linux/README.md)
 
-[English Reading](./docs/englishReading/README.md)
-
 # 摘录
-
-[我们需要怎样的观念@思想史万有引力](./docs/articles/2022-03-08-我们需要怎样的观念（摘录自·思想史万有引力）.md)
 
 # 零碎的网络资源
 
