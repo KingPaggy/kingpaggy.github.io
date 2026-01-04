@@ -2,4 +2,4 @@
 
 ## Imaginary Place
 
-[开始](/docs/README.md)
+[开始](/README.md)
