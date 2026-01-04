@@ -1,4 +1,4 @@
-- [Control](control/README.md)
-- [Math](math/README.md)
-- [Linux](linux/README.md)
-- [Resource](Resource.md)
+- [Control](/docs/control/README.md)
+- [Math](/docs/math/README.md)
+- [Linux](/docs/linux/README.md)
+- [Resource](/docs/Resource.md)

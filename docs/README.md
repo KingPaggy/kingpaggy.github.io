@@ -2,8 +2,8 @@
 
 记录，写作。
 
-[Control](control/README.md)
+[Control](/docs/control/README.md)
 
-[Math](math/README.md)
+[Math](/docs/math/README.md)
 
-[Linux](linux/README.md)
+[Linux](/docs/linux/README.md)
