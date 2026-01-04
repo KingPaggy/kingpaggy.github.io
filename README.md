@@ -6,7 +6,7 @@ test $\rho$
 
 # Main Content
 
-[Being a candidate of PhD of Control](./docs/candidateOfControlPhD/README.md)
+[Control](./docs/Control/README.md)
 
 [Math](./docs/math/README.md)
 

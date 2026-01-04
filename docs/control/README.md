@@ -17,9 +17,13 @@
 ## 数学
 
 1. **系统与控制理论中的线性代数**
-  - 黄琳, 系统与控制理论中的线性代数.
+
+- 黄琳, 系统与控制理论中的线性代数.
+
 2. **矩阵分析与计算**
-  - 元国 et al., 矩阵分析与计算.
+
+- 元国 et al., 矩阵分析与计算.
+
 3. 概率论与测度论
 
 ## 工程 <!-- {docsify-ignore} -->
@@ -31,6 +35,7 @@
 ## 控制主题
 
 Note:
+
 - [Formation control and coordination of multiple unmanned ground vehicles in normal and faulty situations: A review](./topics/formation_control_2020.md)
 
 # 视频资源
