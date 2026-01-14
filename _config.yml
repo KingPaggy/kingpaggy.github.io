@@ -2,7 +2,7 @@ title: 彼岸
 description: Personal blog
 theme: minima
 header_pages:
-  - README.md
+  - about.md
 plugins:
   - jekyll-seo-tag
   - jekyll-feed
